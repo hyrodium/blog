@@ -548,7 +548,7 @@ legend {
 a.pure-button-primary,
 a.pure-button-selected {
   color: #fff;
-  background-color: #0078e7;
+  background-color: #00e732;
 }
 
 .pure-button-group .pure-button {
@@ -627,14 +627,14 @@ a.pure-button-selected {
 .pure-form input[type=week]:focus,
 .pure-form select:focus,
 .pure-form textarea:focus {
-  border-color: #129fea;
+  border-color: #12eacd;
   outline: 0;
 }
 
 .pure-form input[type=checkbox]:focus,
 .pure-form input[type=file]:focus,
 .pure-form input[type=radio]:focus {
-  outline: #129fea auto 1px;
+  outline: #ea12c6 auto 1px;
 }
 
 .pure-form .pure-checkbox,
@@ -2550,7 +2550,7 @@ strong {
 hr {
   height: 0;
   border: 0;
-  box-shadow: 0 0 5px 1px #2579c7;
+  box-shadow: 0 0 5px 1px #25c789;
 }
 
 hr::after {
@@ -2601,9 +2601,9 @@ hr::after {
 }
 
 .notices.blue {
-  border-left: 10px solid #5bc0de;
+  border-left: 10px solid #5bde71;
   background: #f4f8fa;
-  color: #28a1c5;
+  color: #c528b8;
 }
 
 .notices.green {
