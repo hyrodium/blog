@@ -156,15 +156,15 @@ version = "0.4.2"
 
 [[Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random"]
-git-tree-sha1 = "6980906f1c87a38006846dd8a2ba45c63c977d1a"
+git-tree-sha1 = "ed84a69718060bdb1f3dcbb86d3c85b8a69b8a44"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.41"
+version = "0.10.42"
 
 [[FranklinTemplates]]
 deps = ["LiveServer"]
-git-tree-sha1 = "04071bacb9faccd869b01af0803b2278fee95cf6"
+git-tree-sha1 = "24f4ee4d9e3ede316abf2169f93f7190681312b4"
 uuid = "3a985190-f512-4703-8d38-2a7944ed5916"
-version = "0.8.18"
+version = "0.8.19"
 
 [[FreeType2_jll]]
 deps = ["Artifacts", "Bzip2_jll", "JLLWrappers", "Libdl", "Pkg", "Zlib_jll"]
@@ -377,9 +377,9 @@ version = "2.9.0"
 
 [[LiveServer]]
 deps = ["Crayons", "FileWatching", "HTTP", "Pkg", "Sockets", "Test"]
-git-tree-sha1 = "4db4abb8b7d8dadff178b8311e540c86dffcf97d"
+git-tree-sha1 = "99990da121ad310875b3c4dba5954eba54df8cfd"
 uuid = "16fef848-5104-11e9-1b77-fb7a48bbb589"
-version = "0.6.6"
+version = "0.7.0"
 
 [[Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
@@ -494,9 +494,9 @@ version = "1.0.11"
 
 [[Plots]]
 deps = ["Base64", "Contour", "Dates", "FFMPEG", "FixedPointNumbers", "GR", "GeometryBasics", "JSON", "Latexify", "LinearAlgebra", "Measures", "NaNMath", "PlotThemes", "PlotUtils", "Printf", "REPL", "Random", "RecipesBase", "RecipesPipeline", "Reexport", "Requires", "Scratch", "Showoff", "SparseArrays", "Statistics", "StatsBase", "UUIDs"]
-git-tree-sha1 = "f32cd6fcd2909c2d1cdd47ce55e1394b04a66fe2"
+git-tree-sha1 = "20ed303a9370b20174b121f5c86c2663d9e37a3f"
 uuid = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
-version = "1.18.2"
+version = "1.19.1"
 
 [[Preferences]]
 deps = ["TOML"]
